@@ -2,6 +2,19 @@
 
 LLM-Evaluation is a collection of tools and techniques designed to assess the performance and capabilities of large language models (LLMs). This repository provides a comprehensive suite for evaluating various aspects of LLMs, including accuracy, efficiency, robustness, and adaptability. It includes automated benchmarking scripts, detailed metric reports, and comparison utilities to help researchers and developers understand and improve their models. Whether you are working on developing new LLMs or refining existing ones, LLM-Evaluation offers essential resources for thorough and insightful evaluation.
 
+## LLM Evaluation Tools Comparison Table
+
+| **Evaluation Tool**                 | **Provider**         | **Evaluation Method**        | **Focus Areas**                                        | **Accessibility**               | **GitHub Stars**                | **Local** | **Cloud** | **Price**  |
+|-------------------------------------|----------------------|------------------------------|--------------------------------------------------------|---------------------------------|---------------------------------|-----------|-----------|------------|
+| **Azure Prompt Flow Evaluation Flow** | Microsoft          | Automated and manual checks  | User experience, model responsiveness, compliance      | Primarily for Azure customers   | N/A (Not publicly hosted)       | No        | Yes       | Paid       |
+| **MLFlow LLM Evaluate**              | MLFlow (Databricks) | Standardized metrics         | Performance metrics, comparison across models          | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
+| **DeepEval**                        | Independent         | Benchmark tasks              | General capabilities, task performance                 | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
+| **promptfoo**                       | Independent         | Customizable testing suites  | Custom test cases for specific model capabilities      | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
+| **RAGAs - Evaluation Framework**    | Independent         | Automated reasoning checks   | Reasoning, generalization, and logical capabilities    | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
+| **Deepchecks**                      | Deepchecks          | Suite of validation checks   | Model health, robustness, and deployment readiness     | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free/Paid  |
+| **OpenAI Evals**                    | OpenAI               | Automated testing frameworks | Model accuracy, safety, and alignment                  | Limited to OpenAI researchers   | N/A (Not publicly hosted)       | No        | Yes       | N/A        |
+
+
 ## LLM-Evaluation Metrics
 
 | **Metric Type**           | **Metric**                             | **Description**                                                                                                 | **Implementation Method**                                                                 | **Need Label Data** | **Need Context Data** | **Need LLM Model** | **Need Custom Model** |
