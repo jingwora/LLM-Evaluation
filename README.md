@@ -6,13 +6,13 @@ LLM-Evaluation is a collection of tools and techniques designed to assess the pe
 
 | **Evaluation Tool**                 | **Provider**         | **Evaluation Method**        | **Focus Areas**                                        | **Accessibility**               | **GitHub Stars**                | **Local** | **Cloud** | **Price**  |
 |-------------------------------------|----------------------|------------------------------|--------------------------------------------------------|---------------------------------|---------------------------------|-----------|-----------|------------|
-| **Azure Prompt Flow Evaluation Flow** | Microsoft          | Automated and manual checks  | User experience, model responsiveness, compliance      | Primarily for Azure customers   | N/A (Not publicly hosted)       | No        | Yes       | Free/Paid       |
-| **MLFlow LLM Evaluate**              | MLFlow (Databricks) | Standardized metrics         | Performance metrics, comparison across models          | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
-| **DeepEval**                        | Independent         | Benchmark tasks              | General capabilities, task performance                 | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
-| **promptfoo**                       | Independent         | Customizable testing suites  | Custom test cases for specific model capabilities      | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
-| **RAGAs - Evaluation Framework**    | Independent         | Automated reasoning checks   | Reasoning, generalization, and logical capabilities    | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free       |
-| **Deepchecks**                      | Deepchecks          | Suite of validation checks   | Model health, robustness, and deployment readiness     | Publicly available             | Available (Varies by repository)| Yes       | Yes       | Free/Paid  |
-| **OpenAI Evals**                    | OpenAI               | Automated testing frameworks | Model accuracy, safety, and alignment                  | Limited to OpenAI researchers   | N/A (Not publicly hosted)       | No        | Yes       | N/A        |
+| **Azure Prompt Flow Evaluation Flow** | Microsoft          | Automated and manual checks  | User experience, model responsiveness, compliance      | Primarily for Azure customers   | 8.5k       | No        | Yes       | Free/Paid       |
+| **MLFlow LLM Evaluate**              | MLFlow (Databricks) | Standardized metrics         | Performance metrics, comparison across models          | Publicly available             | 17.7k | Yes       | Yes       | Free       |
+| **DeepEval**                        | Independent         | Benchmark tasks              | General capabilities, task performance                 | Publicly available             | 2.1k | Yes       | Yes       | Free       |
+| **promptfoo**                       | Independent         | Customizable testing suites  | Custom test cases for specific model capabilities      | Publicly available             | 3.2k | Yes       | Yes       | Free       |
+| **RAGAs - Evaluation Framework**    | Independent         | Automated reasoning checks   | Reasoning, generalization, and logical capabilities    | Publicly available             | 5.3k | Yes       | Yes       | Free       |
+| **Deepchecks**                      | Deepchecks          | Suite of validation checks   | Model health, robustness, and deployment readiness     | Publicly available             | 3.4k | Yes       | Yes       | Free/Paid  |
+| **OpenAI Evals**                    | OpenAI               | Automated testing frameworks | Model accuracy, safety, and alignment                  | Limited to OpenAI researchers   | 14.2k      | No        | Yes       | N/A        |
 
 
 ## LLM-Evaluation Metrics
